@@ -1,0 +1,3 @@
+# Iris Flower Classification with Machine Learning
+
+Iris Flower Classification is one of the most popular case studies among the data science community. Almost every data science newbie has solved this case study once in their life. Here, you are given the measurements associated with each species of iris flower and based on this data, you have to train a machine learning model for the task of classifying iris flowers. So if you are new to machine learning and have never tried to solve this case study, this article is for you. In this article, I will walk you through Iris Flower Classification with machine learning using Python.
